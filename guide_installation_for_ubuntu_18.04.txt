@@ -6,6 +6,11 @@
 
 
 ** MT Software **
+** Root **
+sudo su
+su - root
+whoami
+passwd
 
 sudo apt update && sudo apt upgrade
 	
